@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Motivation}{1}{}%
+\contentsline {section}{\numberline {2}Military Simulation}{1}{}%
+\contentsline {section}{\numberline {3}AI Solutions to Problems with training Effectiveness}{1}{}%
+\contentsline {section}{\numberline {4}Potential AI for those Solutions}{1}{}%
+\contentsline {subsection}{\numberline {4.1}Genetic Algorithms}{1}{}%
+\contentsline {subsection}{\numberline {4.2}Proximal Policy Optimisation}{1}{}%
+\contentsline {section}{\numberline {5}Metrics}{2}{}%
