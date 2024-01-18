@@ -1,8 +1,23 @@
-\contentsline {section}{\numberline {1}Introduction}{1}{}%
-\contentsline {subsection}{\numberline {1.1}Motivation}{1}{}%
-\contentsline {section}{\numberline {2}Military Simulation}{1}{}%
-\contentsline {section}{\numberline {3}AI Solutions to Problems with training Effectiveness}{1}{}%
-\contentsline {section}{\numberline {4}Potential AI for those Solutions}{1}{}%
-\contentsline {subsection}{\numberline {4.1}Genetic Algorithms}{1}{}%
-\contentsline {subsection}{\numberline {4.2}Proximal Policy Optimisation}{1}{}%
-\contentsline {section}{\numberline {5}Metrics}{2}{}%
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Motivation}{2}{}%
+\contentsline {section}{\numberline {2}Military Simulation}{2}{}%
+\contentsline {subsection}{\numberline {2.1}What is Military Simulation?}{2}{}%
+\contentsline {subsection}{\numberline {2.2}What is it used for?}{2}{}%
+\contentsline {subsection}{\numberline {2.3}How Accurate are Military Simulations?}{2}{}%
+\contentsline {subsection}{\numberline {2.4}AI Adversarial Command and Control}{3}{}%
+\contentsline {section}{\numberline {3}Computer Science Approaches to Improving Military Simulation}{3}{}%
+\contentsline {subsection}{\numberline {3.1}AI Command and Control through Decision Making}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Individual Unit Approach}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Mutually Supporting Units Approach}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Immersive Scenarios}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Necessary Features of an Immersive Scenario}{3}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Realistic Units}{3}{}%
+\contentsline {subsection}{\numberline {3.4}Data Analysis for Performance Review}{4}{}%
+\contentsline {section}{\numberline {4}AI Solutions to Problems with Training Effectiveness}{5}{}%
+\contentsline {section}{\numberline {5}Potential AI for those Solutions}{5}{}%
+\contentsline {subsection}{\numberline {5.1}Decision Trees}{5}{}%
+\contentsline {subsection}{\numberline {5.2}Genetic Algorithms}{5}{}%
+\contentsline {subsection}{\numberline {5.3}Proximal Policy Optimisation}{5}{}%
+\contentsline {section}{\numberline {6}Metrics}{5}{}%
+\contentsline {section}{\numberline {7}Existing Studies}{5}{}%
+\contentsline {section}{\numberline {8}Potential Studies}{5}{}%

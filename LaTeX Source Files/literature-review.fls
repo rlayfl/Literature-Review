@@ -9,12 +9,37 @@ INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul-ori.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul-ori.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.aux
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.aux
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.aux
 OUTPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.aux
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -31,13 +56,13 @@ INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-re
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.toc
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.toc
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+OUTPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf
+INPUT C:\Users\Richard\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 OUTPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.toc
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.bbl
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.bbl
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.bbl
-OUTPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf
-INPUT C:\Users\Richard\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.aux
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb

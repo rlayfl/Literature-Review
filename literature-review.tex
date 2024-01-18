@@ -1,9 +1,13 @@
 \documentclass{article}
 
+\setlength{\parskip}{10pt}
+
 \title{Literature Review}
 \author{Richard Lay-Flurrie}
 
 \usepackage{cite}
+\usepackage{soul}
+\usepackage{xcolor}
 
 \begin{document}
 
@@ -22,9 +26,70 @@
 
 \section{Military Simulation}
 
-\section{AI Solutions to Problems with training Effectiveness}
+\subsection{What is Military Simulation?}
+
+\subsection{What is it used for?}
+
+\subsection{How Accurate are Military Simulations?}
+
+Military simulation software is designed to accurately replicate real life performance of \hl{things} (\hl{TODO: Thing? Really? That's the word you came up with?}), such as the performance of weapon systems, vehicles and other technology commonly found in the \hl{battlespace (TODO: Define this as it's not an intuitive term)}. Some simulators also go as far as to model the performance of humans in terms of physical performance, health and awareness (\hl{TODO: Expand on this}).
+
+However, a common experience from users is often that the majority of simulators that they play feel extremely realistic, yet perform differently when compared to each other. How can two simulators be realistic if they perform differently? (\hl{TODO: This is entirely my experience and some friends I know have said this. Maybe this is a research project to carry out?})
+
+\subsection{AI Adversarial Command and Control}
+
+\hl{TODO: Is the following even true or am I imagining it?}
+
+\hl{TODO: Write about how the AI knows everything but pretends it doesn't. }
+
+\hl{TODO: Write about developing AI which reacts to information which is only gathered the "Real way" through command and control}
+
+\section{Computer Science Approaches to Improving Military Simulation}
+
+\subsection{AI Command and Control through Decision Making}
+
+\subsubsection{Individual Unit Approach}
+
+\subsubsection{Mutually Supporting Units Approach}
+
+
+
+\subsection{Immersive Scenarios}
+
+An immersive scenario is one in which the \hl{user/player/trainee} is able to 'forget' that they are controlling a character in a virtual world; the less the user is immersed, the more aware they are of the reality of the situation.
+
+\subsection{Necessary Features of an Immersive Scenario}
+
+\subsubsection{Realistic Units}
+
+\hl{TODO: Look into whether realistic vehicles are necessary
+TODO: Look into whether people can tell different things apart. Can the average person on the street tell a NATO tank apart from a Russian one? Are people's perspectives changed by WW2 films? Talk about when the girls at the beach thought that the WW2 re-enactors were recruiters and couldn't identify a uniform which was 80 years old.}
+
+\hl{TODO: According to a study which I completed called... }
+
+\hl{TODO: Source? Says who?}
+
+\subsection{Data Analysis for Performance Review}
+
+\hl{TODO:} 
+
+\hl{- Add a source for how counter-battery is trained using radar}
+
+The nature of simulations is such that vast amounts of data can be collected and subsequently analysed in a way which isn't possible in real world scenarios. Although technology exists for collecting and analysing data in real-world scenarios, the sheer flexibility of simulated data is not yet matched.
+
+For example, data regarding the source of indirect fire, such as artillery and mortars shells, can be collected and analysed by technology such as \hl{Radar, Field Artillery, No. 15} (Cymbeline). The purpose of this system is to determine the origin of the indirect fire, based on information sourced through determining the shell's velocity and trajectory. This information can then be relayed to friendly elements for use in the counter-battery role.
+
+In the context of training for the counter-battery role as a field-gun crew in a live exercise, without simulation, a physical installation would be required to \hl{train on, including real projectiles being fired through the air} and further real projectiles needing to be fired at the source to determine the effectiveness of the field-gun crew's performance.
+
+With a military simulation, these actions can all be carried out virtually, with the ability to gather instant, qualitative and quantitative data on the performance of the crew, \hl{(providing the simulation was accurate)}.
+
+\section{AI Solutions to Problems with Training Effectiveness}
+
+
 
 \section{Potential AI for those Solutions}
+
+\subsection{Decision Trees}
 
 \subsection{Genetic Algorithms}
 
@@ -33,6 +98,10 @@
 Proximal Policy Operation (PPO) is a reinforcement learning algorithm, which can be utilised for decision making in order for task completion. \cite{schulman2017proximal}
 
 \section{Metrics}
+
+\section{Existing Studies}
+
+\section{Potential Studies}
 
 \bibliography{literaturereviewbib}{}
 \bibliographystyle{plain}
