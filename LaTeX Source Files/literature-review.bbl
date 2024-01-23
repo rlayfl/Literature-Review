@@ -1,5 +1,13 @@
 \begin{thebibliography}{1}
 
+\bibitem{8797889}
+Rory~M.S. Clifford, Sungchul Jung, Simon Hoermann, Mark Billinghurst, and
+  Robert~W. Lindeman.
+\newblock Creating a stressful decision making environment for aerial
+  firefighter training in virtual reality.
+\newblock In {\em 2019 IEEE Conference on Virtual Reality and 3D User
+  Interfaces (VR)}, pages 181--189, 2019.
+
 \bibitem{schulman2017proximal}
 John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.
 \newblock Proximal policy optimization algorithms, 2017.
