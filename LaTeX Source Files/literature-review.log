@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  23 JAN 2024 14:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  25 JAN 2024 20:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -111,11 +111,11 @@ LaTeX Font Info:    ... okay on input line 12.
 \everyMPtoPDFconversion=\toks24
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 16.
+(Font)              <12> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 16.
+(Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 16.
+(Font)              <6> on input line 14.
  (d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
@@ -123,16 +123,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 2.
  [1
 
-{C:/Users/Richard/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
+{C:/Users/Richard/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2])
 \tf@toc=\write3
 \openout3 = `literature-review.toc'.
 
- [2] [3]
-Overfull \hbox (2.9081pt too wide) in paragraph at lines 70--71
+ [3] [4]
+Overfull \hbox (2.9081pt too wide) in paragraph at lines 101--102
 \OT1/cmr/m/n/10 Ukrainian Army re-ported the de-struc-tion of a Rus-sian T-90 Pro-ryv tank. TODO:
  []
 
-[4] [5] [6] (d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.bbl [7]) [8] (d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.aux)
+[5] [6] [7] (d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.bbl [8]) [9] (d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -141,15 +141,15 @@ L3 programming layer <2023-08-29>
 Here is how much of TeX's memory you used:
  1928 strings out of 475248
  30588 string characters out of 5756868
- 1942785 words of memory out of 5000000
+ 1947785 words of memory out of 5000000
  23469 multiletter control sequences out of 15000+600000
  562983 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,65p,712b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,6n,65p,810b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (8 pages, 121838 bytes).
+Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (9 pages, 129059 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
