@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  4 FEB 2024 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  4 FEB 2024 15:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -127,8 +127,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `literature-review.toc'.
 
- [3] [4] [5] [6] [7]
-Overfull \hbox (2.9081pt too wide) in paragraph at lines 166--167
+ [3] [4]
+
+LaTeX Warning: Citation `DEPAULAFERREIRA2020106868' on page 5 undefined on input line 60.
+
+
+LaTeX Warning: Citation `stanford2019digital' on page 5 undefined on input line 89.
+
+
+LaTeX Warning: Citation `PYLIANIDIS2021105942' on page 5 undefined on input line 89.
+
+
+LaTeX Warning: Citation `ScientificReports1' on page 5 undefined on input line 89.
+
+
+LaTeX Warning: Citation `9345490' on page 5 undefined on input line 89.
+
+[5] [6] [7]
+Overfull \hbox (2.9081pt too wide) in paragraph at lines 172--173
 \OT1/cmr/m/n/10 Ukrainian Army re-ported the de-struc-tion of a Rus-sian T-90 Pro-ryv tank. TODO:
  []
 
@@ -137,6 +153,13 @@ Overfull \hbox (2.9081pt too wide) in paragraph at lines 166--167
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  1939 strings out of 475248
@@ -147,7 +170,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  55i,8n,65p,1008b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Richard\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (13 pages, 176125 bytes).
+Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (13 pages, 176424 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
