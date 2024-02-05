@@ -14,6 +14,12 @@ William {de Paula Ferreira}, Fabiano Armellini, and Luis~Antonio {De
 \newblock Simulation in industry 4.0: A state-of-the-art review.
 \newblock {\em Computers \& Industrial Engineering}, 149:106868, 2020.
 
+\bibitem{1574234}
+C.M. Macal and M.J. North.
+\newblock Tutorial on agent-based modeling and simulation.
+\newblock In {\em Proceedings of the Winter Simulation Conference, 2005.},
+  pages 14 pp.--, 2005.
+
 \bibitem{9345490}
 Arif~Furkan Mendi, Tolga Erol, and Dilara Doğan.
 \newblock Digital twin in the military field.
@@ -41,7 +47,7 @@ Andy Stanford-Clark, Erwin Frank-Schultz, and Martin Harris.
   COM/articles/what-are-digital-twins}, 2019.
 
 \bibitem{ScientificReports1}
-Dawson Richard J Mills Jon P. Blythe Phil Morley~Jeremy Wolf, Kristina.
+Dawson Richard J Mills Jon P. Blythe Phil-Morley~Jeremy Wolf, Kristina.
 \newblock Towards a digital twin for supporting multi-agency incident
   management in a smart city.
 \newblock {\em Scientific Reports}, 12, 2022.

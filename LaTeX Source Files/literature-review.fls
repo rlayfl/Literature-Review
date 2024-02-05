@@ -31,6 +31,17 @@ INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdft
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.aux
@@ -40,6 +51,11 @@ OUTPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-r
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -59,6 +75,20 @@ INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.
 OUTPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf
 INPUT C:\Users\Richard\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 OUTPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.toc
+INPUT .\Images\cheeseMeister3kMario1.jpg
+INPUT .\Images\cheeseMeister3kMario1.jpg
+INPUT .\Images\cheeseMeister3kMario1.jpg
+INPUT .\Images\cheeseMeister3kMario1.jpg
+INPUT .\Images\cheeseMeister3kMario1.jpg
+INPUT .\Images\cheeseMeister3kMario1.jpg
+INPUT .\Images\cheeseMeister3kMario1.jpg
+INPUT .\Images\cheeseMeister3kMario2.jpg
+INPUT .\Images\cheeseMeister3kMario2.jpg
+INPUT .\Images\cheeseMeister3kMario2.jpg
+INPUT .\Images\cheeseMeister3kMario2.jpg
+INPUT .\Images\cheeseMeister3kMario2.jpg
+INPUT .\Images\cheeseMeister3kMario2.jpg
+INPUT .\Images\cheeseMeister3kMario2.jpg
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.bbl
