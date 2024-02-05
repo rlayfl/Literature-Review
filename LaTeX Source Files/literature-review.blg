@@ -33,45 +33,45 @@ Too many commas in name 1 of "Wolf, Kristina, Dawson, Richard J, Mills, Jon P., 
 while executing---line 1090 of file plain.bst
 Too many commas in name 1 of "Wolf, Kristina, Dawson, Richard J, Mills, Jon P., Blythe, Phil, Morley, Jeremy" for entry ScientificReports1
 while executing---line 1090 of file plain.bst
-You've used 9 entries,
+You've used 10 entries,
             2118 wiz_defined-function locations,
-            552 strings with 5710 characters,
-and the built_in function-call counts, 3083 in all, are:
-= -- 292
-> -- 155
+            558 strings with 5937 characters,
+and the built_in function-call counts, 3534 in all, are:
+= -- 332
+> -- 188
 < -- 2
-+ -- 61
-- -- 52
-* -- 202
-:= -- 513
-add.period$ -- 26
-call.type$ -- 9
-change.case$ -- 53
++ -- 74
+- -- 64
+* -- 246
+:= -- 593
+add.period$ -- 29
+call.type$ -- 10
+change.case$ -- 62
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 122
-empty$ -- 235
-format.name$ -- 52
-if$ -- 654
+cite$ -- 10
+duplicate$ -- 133
+empty$ -- 262
+format.name$ -- 64
+if$ -- 742
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 8
-newline$ -- 47
-num.names$ -- 18
-pop$ -- 54
+int.to.str$ -- 10
+missing$ -- 9
+newline$ -- 52
+num.names$ -- 20
+pop$ -- 61
 preamble$ -- 1
-purify$ -- 44
+purify$ -- 52
 quote$ -- 0
-skip$ -- 102
+skip$ -- 108
 stack$ -- 0
-substring$ -- 158
-swap$ -- 35
+substring$ -- 184
+swap$ -- 36
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 36
+type$ -- 40
 warning$ -- 0
-while$ -- 25
-width$ -- 10
-write$ -- 97
+while$ -- 28
+width$ -- 12
+write$ -- 108
 (There were 14 error messages)

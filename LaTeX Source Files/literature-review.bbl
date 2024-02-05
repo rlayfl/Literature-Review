@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{8797889}
 Rory~M.S. Clifford, Sungchul Jung, Simon Hoermann, Mark Billinghurst, and
@@ -31,6 +31,13 @@ Durotul Ngazizah.
   place (2018) movie.
 \newblock {\em CLLIENT JOURNAL}, 3(2), 2021.
 
+\bibitem{afz162}
+Anita Patel, Vladislav Berdunov, Zahidul Quayyum, Derek King, Martin Knapp, and
+  Raphael Wittenberg.
+\newblock {Estimated societal costs of stroke in the UK based on a discrete
+  event simulation}.
+\newblock {\em Age and Ageing}, 49(2):270--276, 12 2019.
+
 \bibitem{PYLIANIDIS2021105942}
 Christos Pylianidis, Sjoukje Osinga, and Ioannis~N. Athanasiadis.
 \newblock Introducing digital twins to agriculture.
@@ -47,7 +54,7 @@ Andy Stanford-Clark, Erwin Frank-Schultz, and Martin Harris.
   COM/articles/what-are-digital-twins}, 2019.
 
 \bibitem{ScientificReports1}
-Dawson Richard J Mills Jon P. Blythe Phil-Morley~Jeremy Wolf, Kristina.
+Dawson Richard J Mills Jon P. Blythe Phil Morley~Jeremy Wolf, Kristina.
 \newblock Towards a digital twin for supporting multi-agency incident
   management in a smart city.
 \newblock {\em Scientific Reports}, 12, 2022.

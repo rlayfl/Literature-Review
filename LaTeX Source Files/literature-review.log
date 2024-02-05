@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  5 FEB 2024 13:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  5 FEB 2024 14:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -159,13 +159,17 @@ File: Images/cheeseMeister3kMario2.jpg Graphic file (type jpg)
 <use Images/cheeseMeister3kMario2.jpg>
 Package pdftex.def Info: Images/cheeseMeister3kMario2.jpg  used on input line 39.
 (pdftex.def)             Requested size: 155.24895pt x 135.84506pt.
- [4 <./Images/cheeseMeister3kMario1.jpg> <./Images/cheeseMeister3kMario2.jpg>] [5] [6] [7] [8]
-Overfull \hbox (2.9081pt too wide) in paragraph at lines 209--210
+ [4 <./Images/cheeseMeister3kMario1.jpg> <./Images/cheeseMeister3kMario2.jpg>] [5] [6]
+
+LaTeX Warning: Citation `afz162' on page 7 undefined on input line 164.
+
+[7] [8]
+Overfull \hbox (2.9081pt too wide) in paragraph at lines 211--212
 \OT1/cmr/m/n/10 Ukrainian Army re-ported the de-struc-tion of a Rus-sian T-90 Pro-ryv tank. TODO:
  []
 
 [9] [10] [11]
-Overfull \hbox (50.08409pt too wide) in paragraph at lines 333--334
+Overfull \hbox (50.08409pt too wide) in paragraph at lines 335--336
 \OT1/cmr/m/n/10 utilised for both clas-si-fi-ca-tion and re-gres-sion tasks" (https://www.ibm.com/topics/decision-
  []
 
@@ -174,17 +178,21 @@ Overfull \hbox (50.08409pt too wide) in paragraph at lines 333--334
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 2310 strings out of 475248
- 37749 string characters out of 5756868
+ 2311 strings out of 475248
+ 37757 string characters out of 5756868
  1945785 words of memory out of 5000000
- 23828 multiletter control sequences out of 15000+600000
+ 23829 multiletter control sequences out of 15000+600000
  563318 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,1008b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Richard\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (14 pages, 204755 bytes).
+Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (14 pages, 205305 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
