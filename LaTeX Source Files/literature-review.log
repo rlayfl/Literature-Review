@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  12 FEB 2024 13:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  12 FEB 2024 15:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -191,13 +191,13 @@ Overfull \hbox (87.16742pt too wide) in paragraph at lines 109--110
  []
 
 [6] [7] [8] [9]
-Overfull \hbox (2.9081pt too wide) in paragraph at lines 240--241
+Overfull \hbox (2.9081pt too wide) in paragraph at lines 242--243
 \OT1/cmr/m/n/10 Ukrainian Army re-ported the de-struc-tion of a Rus-sian T-90 Pro-ryv tank. TODO:
  []
 
 [10] [11]
-d:/PhD Computer Science/Literature-Review/literature-review.tex:305: Misplaced alignment tab character &.
-l.305 ...ps://www.youtube.com/watch?v=Dvbp9ihzB2k&
+d:/PhD Computer Science/Literature-Review/literature-review.tex:307: Misplaced alignment tab character &.
+l.307 ...ps://www.youtube.com/watch?v=Dvbp9ihzB2k&
                                                   ab_channel=Axon)
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -206,24 +206,24 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-d:/PhD Computer Science/Literature-Review/literature-review.tex:305: Missing $ inserted.
+d:/PhD Computer Science/Literature-Review/literature-review.tex:307: Missing $ inserted.
 <inserted text> 
                 $
-l.305 ...//www.youtube.com/watch?v=Dvbp9ihzB2k&ab_
+l.307 ...//www.youtube.com/watch?v=Dvbp9ihzB2k&ab_
                                                   channel=Axon)
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-d:/PhD Computer Science/Literature-Review/literature-review.tex:306: Missing $ inserted.
+d:/PhD Computer Science/Literature-Review/literature-review.tex:308: Missing $ inserted.
 <inserted text> 
                 $
-l.306 
+l.308 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 [12] [13] [14]
-Overfull \hbox (50.08409pt too wide) in paragraph at lines 405--406
+Overfull \hbox (50.08409pt too wide) in paragraph at lines 407--408
 \OT1/cmr/m/n/10 utilised for both clas-si-fi-ca-tion and re-gres-sion tasks" (https://www.ibm.com/topics/decision-
  []
 
@@ -242,7 +242,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,854b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Richard\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (17 pages, 234228 bytes).
+Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (17 pages, 234270 bytes).
 PDF statistics:
  119 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
