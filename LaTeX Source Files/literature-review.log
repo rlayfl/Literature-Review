@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  16 FEB 2024 07:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  17 FEB 2024 15:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -163,29 +163,7 @@ Package pdftex.def Info: Images/cheeseMeister3kMario2.jpg  used on input line 46
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4]
-d:/PhD Computer Science/Literature-Review/literature-review.tex:67: Missing $ inserted.
-<inserted text> 
-                $
-l.67 ...om/r/GlobalOffensive/comments/1ak7n2j/for_
-                                                  research_can_you_describe_...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-d:/PhD Computer Science/Literature-Review/literature-review.tex:68: Missing $ inserted.
-<inserted text> 
-                $
-l.68 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (123.95566pt too wide) in paragraph at lines 67--68
-\OT1/cmr/m/n/10 https://www.reddit.com/r/GlobalOffensive/comments/1ak7n2j/for$[]\OML/cmm/m/it/10 esearch[]an[]ou[]escribe[]hat[]eeling[]ou=$ 
- []
-
-[5 <./Images/cheeseMeister3kMario1.jpg> <./Images/cheeseMeister3kMario2.jpg>]
+[4] [5 <./Images/cheeseMeister3kMario1.jpg> <./Images/cheeseMeister3kMario2.jpg>]
 Overfull \hbox (87.16742pt too wide) in paragraph at lines 113--114
 []\OT1/cmr/m/n/10 based[] [][][]car[] [][][]nav[]-[]i[]-[]ga[]-[]tion.[] [][][]Use[] [][][]the[] [][][]clip[] [][][]from[] [][][]To[]-[]mor[]-[]row's[] [][][]World:[] [][][]https://www.bbc.co.uk/archive/cassette[]-
  []
@@ -195,34 +173,7 @@ Overfull \hbox (2.9081pt too wide) in paragraph at lines 250--251
 \OT1/cmr/m/n/10 Ukrainian Army re-ported the de-struc-tion of a Rus-sian T-90 Pro-ryv tank. TODO:
  []
 
-[10] [11]
-d:/PhD Computer Science/Literature-Review/literature-review.tex:315: Misplaced alignment tab character &.
-l.315 ...ps://www.youtube.com/watch?v=Dvbp9ihzB2k&
-                                                  ab_channel=Axon)
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-d:/PhD Computer Science/Literature-Review/literature-review.tex:315: Missing $ inserted.
-<inserted text> 
-                $
-l.315 ...//www.youtube.com/watch?v=Dvbp9ihzB2k&ab_
-                                                  channel=Axon)
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-d:/PhD Computer Science/Literature-Review/literature-review.tex:316: Missing $ inserted.
-<inserted text> 
-                $
-l.316 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-[12] [13] [14]
+[10] [11] [12] [13] [14]
 Overfull \hbox (50.08409pt too wide) in paragraph at lines 415--416
 \OT1/cmr/m/n/10 utilised for both clas-si-fi-ca-tion and re-gres-sion tasks" (https://www.ibm.com/topics/decision-
  []
@@ -241,10 +192,10 @@ Here is how much of TeX's memory you used:
  563318 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,854b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Richard\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (17 pages, 234583 bytes).
+ <C:\Users\Richard\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (17 pages, 212489 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
