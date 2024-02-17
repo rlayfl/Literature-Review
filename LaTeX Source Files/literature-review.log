@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  17 FEB 2024 15:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.16)  17 FEB 2024 15:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -164,25 +164,74 @@ Package pdftex.def Info: Images/cheeseMeister3kMario2.jpg  used on input line 46
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4] [5 <./Images/cheeseMeister3kMario1.jpg> <./Images/cheeseMeister3kMario2.jpg>]
+
+LaTeX Warning: Citation `DEPAULAFERREIRA2020106868' on page 6 undefined on input line 87.
+
+
+LaTeX Warning: Citation `1574234' on page 6 undefined on input line 105.
+
+
 Overfull \hbox (87.16742pt too wide) in paragraph at lines 113--114
 []\OT1/cmr/m/n/10 based[] [][][]car[] [][][]nav[]-[]i[]-[]ga[]-[]tion.[] [][][]Use[] [][][]the[] [][][]clip[] [][][]from[] [][][]To[]-[]mor[]-[]row's[] [][][]World:[] [][][]https://www.bbc.co.uk/archive/cassette[]-
  []
 
-[6] [7] [8] [9]
+[6]
+
+LaTeX Warning: Citation `stanford2019digital' on page 7 undefined on input line 129.
+
+
+LaTeX Warning: Citation `PYLIANIDIS2021105942' on page 7 undefined on input line 129.
+
+
+LaTeX Warning: Citation `ScientificReports1' on page 7 undefined on input line 129.
+
+
+LaTeX Warning: Citation `9345490' on page 7 undefined on input line 129.
+
+[7]
+
+LaTeX Warning: Citation `afz162' on page 8 undefined on input line 200.
+
+[8]
+
+LaTeX Warning: Citation `8797889' on page 9 undefined on input line 210.
+
+
+LaTeX Warning: Citation `8797889' on page 9 undefined on input line 216.
+
+[9]
 Overfull \hbox (2.9081pt too wide) in paragraph at lines 250--251
 \OT1/cmr/m/n/10 Ukrainian Army re-ported the de-struc-tion of a Rus-sian T-90 Pro-ryv tank. TODO:
  []
 
-[10] [11] [12] [13] [14]
+[10] [11] [12] [13]
+
+LaTeX Warning: Citation `diegeticSounds1' on page 14 undefined on input line 361.
+
+
+LaTeX Warning: Citation `diegeticSounds1' on page 14 undefined on input line 367.
+
+[14]
 Overfull \hbox (50.08409pt too wide) in paragraph at lines 415--416
 \OT1/cmr/m/n/10 utilised for both clas-si-fi-ca-tion and re-gres-sion tasks" (https://www.ibm.com/topics/decision-
  []
 
-[15] (d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.bbl [16]) [17] (d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.aux)
+[15]
+
+LaTeX Warning: Citation `schulman2017proximal' on page 16 undefined on input line 429.
+
+(d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.bbl [16]) [17] (d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  2311 strings out of 475248
@@ -193,7 +242,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,854b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Richard\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Richard/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (17 pages, 212489 bytes).
+Output written on "d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf" (17 pages, 212926 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
