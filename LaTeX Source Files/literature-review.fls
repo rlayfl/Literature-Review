@@ -91,9 +91,9 @@ INPUT .\Images\cheeseMeister3kMario2.jpg
 INPUT .\Images\cheeseMeister3kMario2.jpg
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
-INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.bbl
-INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.bbl
-INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.bbl
+INPUT .\literature-review.bbl
+INPUT .\literature-review.bbl
+INPUT literature-review.bbl
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.aux
 INPUT C:\Users\Richard\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
