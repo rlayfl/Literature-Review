@@ -75,21 +75,14 @@ INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.
 OUTPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.pdf
 INPUT C:\Users\Richard\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 OUTPUT d:\PhD Computer Science\Literature-Review\LaTeX Source Files\literature-review.toc
-INPUT .\Images\cheeseMeister3kMario1.jpg
-INPUT .\Images\cheeseMeister3kMario1.jpg
-INPUT .\Images\cheeseMeister3kMario1.jpg
-INPUT .\Images\cheeseMeister3kMario1.jpg
-INPUT .\Images\cheeseMeister3kMario1.jpg
-INPUT .\Images\cheeseMeister3kMario1.jpg
-INPUT .\Images\cheeseMeister3kMario1.jpg
-INPUT .\Images\cheeseMeister3kMario2.jpg
-INPUT .\Images\cheeseMeister3kMario2.jpg
-INPUT .\Images\cheeseMeister3kMario2.jpg
-INPUT .\Images\cheeseMeister3kMario2.jpg
-INPUT .\Images\cheeseMeister3kMario2.jpg
-INPUT .\Images\cheeseMeister3kMario2.jpg
-INPUT .\Images\cheeseMeister3kMario2.jpg
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\Images\cheeseMeister3kMario.png
+INPUT .\Images\cheeseMeister3kMario.png
+INPUT .\Images\cheeseMeister3kMario.png
+INPUT .\Images\cheeseMeister3kMario.png
+INPUT .\Images\cheeseMeister3kMario.png
+INPUT .\Images\cheeseMeister3kMario.png
+INPUT .\Images\cheeseMeister3kMario.png
 INPUT C:\Users\Richard\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT .\literature-review.bbl
 INPUT .\literature-review.bbl
