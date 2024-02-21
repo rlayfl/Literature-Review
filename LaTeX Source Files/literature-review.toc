@@ -3,38 +3,40 @@
 \contentsline {subsection}{\numberline {1.2}Software for Training}{4}{}%
 \contentsline {subsection}{\numberline {1.3}How Recent is the Simulation of Stressful Scenarios?}{5}{}%
 \contentsline {subsection}{\numberline {1.4}Research Question\texthl {(s?)}}{5}{}%
-\contentsline {subsection}{\numberline {1.5}Defining Terms}{5}{}%
-\contentsline {subsection}{\numberline {1.6}Types of Computer Software used in Simulation}{6}{}%
+\contentsline {subsection}{\numberline {1.5}Defining Terms}{6}{}%
+\contentsline {subsection}{\numberline {1.6}Types of Computer Software used in Simulation}{7}{}%
 \contentsline {subsection}{\numberline {1.7}Agent-based Modelling and Simulation (ABMS)}{7}{}%
 \contentsline {subsection}{\numberline {1.8}Artificial Intelligence (AI)}{7}{}%
 \contentsline {subsection}{\numberline {1.9}Augmented Reality (AR)}{8}{}%
-\contentsline {subsection}{\numberline {1.10}Digital Twins (DT)}{8}{}%
-\contentsline {subsection}{\numberline {1.11}Continuous Simulation}{8}{}%
-\contentsline {subsection}{\numberline {1.12}Discrete Event Simulation (DES)}{8}{}%
-\contentsline {subsection}{\numberline {1.13}Hybrid Simulation}{9}{}%
+\contentsline {subsection}{\numberline {1.10}Mixed Reality (MR)}{8}{}%
+\contentsline {subsection}{\numberline {1.11}Extended Reality (XR)}{8}{}%
+\contentsline {subsection}{\numberline {1.12}Digital Twins (DT)}{8}{}%
+\contentsline {subsection}{\numberline {1.13}Continuous Simulation}{9}{}%
+\contentsline {subsection}{\numberline {1.14}Discrete Event Simulation (DES)}{9}{}%
+\contentsline {subsection}{\numberline {1.15}Hybrid Simulation}{9}{}%
 \contentsline {section}{\numberline {2}Software-based Simulation of Stressful Situations}{9}{}%
 \contentsline {subsection}{\numberline {2.1}Introduction}{9}{}%
-\contentsline {subsection}{\numberline {2.2}Cyber Attacks}{9}{}%
-\contentsline {subsection}{\numberline {2.3}Diving}{9}{}%
-\contentsline {subsection}{\numberline {2.4}Finance}{9}{}%
-\contentsline {subsubsection}{\numberline {2.4.1}Monte Carlo Simulation}{9}{}%
-\contentsline {subsection}{\numberline {2.5}Medicine}{9}{}%
+\contentsline {subsection}{\numberline {2.2}Cyber Attacks}{10}{}%
+\contentsline {subsection}{\numberline {2.3}Diving}{10}{}%
+\contentsline {subsection}{\numberline {2.4}Finance}{10}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}Monte Carlo Simulation}{10}{}%
+\contentsline {subsection}{\numberline {2.5}Medicine}{10}{}%
 \contentsline {subsection}{\numberline {2.6}Emergency Services}{10}{}%
 \contentsline {subsubsection}{\numberline {2.6.1}Firefighting with Aircraft}{10}{}%
 \contentsline {subsubsection}{\numberline {2.6.2}Measuring Stress Levels of Participants in Simulated Scenarios}{10}{}%
-\contentsline {section}{\numberline {3}Simulation}{10}{}%
-\contentsline {subsection}{\numberline {3.1}Difference Between Simulation and Role-play}{10}{}%
-\contentsline {subsection}{\numberline {3.2}What is Military Simulation?}{10}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}Combined Arms Tactical Trainer}{10}{}%
-\contentsline {subsection}{\numberline {3.3}What is it used for?}{10}{}%
+\contentsline {section}{\numberline {3}Simulation}{11}{}%
+\contentsline {subsection}{\numberline {3.1}Difference Between Simulation and Role-play}{11}{}%
+\contentsline {subsection}{\numberline {3.2}What is Military Simulation?}{11}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Combined Arms Tactical Trainer}{11}{}%
+\contentsline {subsection}{\numberline {3.3}What is it used for?}{11}{}%
 \contentsline {subsection}{\numberline {3.4}How Accurate are (Military) Simulations?}{11}{}%
-\contentsline {subsubsection}{\numberline {3.4.1}Destruction of Russian T-90 Proryv}{11}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Destruction of Russian T-90 Proryv}{12}{}%
 \contentsline {subsubsection}{\numberline {3.4.2}Influence of Music while Driving test in Simulator}{12}{}%
 \contentsline {subsubsection}{\numberline {3.4.3}World of Warcraft Virus Outbreak}{12}{}%
 \contentsline {subsubsection}{\numberline {3.4.4}Top Gear Honda NSX Leguna Seca}{12}{}%
 \contentsline {subsubsection}{\numberline {3.4.5}Treating Social Anxiety Disorder with VR}{13}{}%
 \contentsline {subsubsection}{\numberline {3.4.6}Training Taser with VR (AXON)}{13}{}%
-\contentsline {subsection}{\numberline {3.5}AI Adversarial Command and Control}{13}{}%
+\contentsline {subsection}{\numberline {3.5}AI Adversarial Command and Control}{14}{}%
 \contentsline {section}{\numberline {4}Computer Science Approaches to Improving Military Simulation}{14}{}%
 \contentsline {subsection}{\numberline {4.1}AI Command and Control through Decision Making}{14}{}%
 \contentsline {subsubsection}{\numberline {4.1.1}Individual Unit Approach}{14}{}%
@@ -48,14 +50,16 @@
 \contentsline {subsubsection}{\numberline {4.4.1}Audio}{15}{}%
 \contentsline {subsubsection}{\numberline {4.4.2}Diegetic Sounds for Atmosphere}{15}{}%
 \contentsline {subsubsection}{\numberline {4.4.3}Visuals}{15}{}%
-\contentsline {subsection}{\numberline {4.5}Data Analysis for Performance Review}{15}{}%
+\contentsline {subsection}{\numberline {4.5}Data Analysis for Performance Review}{16}{}%
 \contentsline {section}{\numberline {5}AI Solutions to Problems with Training Effectiveness}{16}{}%
 \contentsline {section}{\numberline {6}Potential AI for those Solutions}{16}{}%
 \contentsline {subsection}{\numberline {6.1}Decision Trees}{16}{}%
-\contentsline {subsection}{\numberline {6.2}Genetic Algorithms}{16}{}%
+\contentsline {subsection}{\numberline {6.2}Genetic Algorithms}{17}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}Fitness Functions}{17}{}%
+\contentsline {subsubsection}{\numberline {6.2.2}Evaluation Strategies}{17}{}%
 \contentsline {subsection}{\numberline {6.3}Proximal Policy Optimisation}{17}{}%
 \contentsline {section}{\numberline {7}Metrics}{17}{}%
 \contentsline {subsubsection}{\numberline {7.0.1}Observing Short-term Stress Levels}{17}{}%
-\contentsline {section}{\numberline {8}Existing Studies}{17}{}%
-\contentsline {section}{\numberline {9}Potential Studies}{17}{}%
-\contentsline {section}{\numberline {10}Simulator Sickness}{17}{}%
+\contentsline {section}{\numberline {8}Existing Studies}{18}{}%
+\contentsline {section}{\numberline {9}Potential Studies}{18}{}%
+\contentsline {section}{\numberline {10}Simulator Sickness}{18}{}%
