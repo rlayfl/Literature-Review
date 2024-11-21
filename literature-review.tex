@@ -68,12 +68,18 @@ The use of simulation, for the purposes of entertainment and training has been p
 
       % https://www.tandfonline.com/doi/abs/10.1080/12460125.2020.1768680?casa_token=mB4eZQrxMkgAAAAA:bjOHSmi1NrMYMLYCOXvw4hxArJDSsypa9CGWEFkL7upxRr-4yg0PYKpZM5Gm92xZcEevhCcMWbIbZQ %
 
-      Decision Stressors
+      \subsection{Decision Stressors}
 
       - Information Overload
       - Time Pressure
       - Complexity
       - Uncertainty and risk
+
+      \subsection{Further Decision Stressors}
+
+      - Fear of Missing Out
+      - Fear of Bad First Impression
+      - Competition
 
 
   \subsection{Is it Really Stress?}
@@ -363,6 +369,22 @@ On commenting that the brakes were "burning", Jeremy Clarkson states that it's "
 
 1'57 the final time.
 
+\subsection{From Top Gear to Top Gun}
+
+In the film, Tom Gun: Maverick, during a scene in which a training exercise to prepare for combat operations is depicted, three aircraft are being used to practice aerial combat. 
+
+One character says "What say we put some skin in the game?" to which the instructor relies "What do you have in mind?".
+
+The first character replies "Whoever gets shot down first has to do 200 push-ups". The next sequences are filmed in a way as to portray an increased sense of desire to "win" the training exercise. 
+
+% Talk about this %
+
+The instructor follows through and enforces the rule, ensuring the "losers" do their 200 push-ups.
+
+In the training exercise, a kill is simulated by one aircraft locking on to another.
+
+% Expand this %
+
 \subsubsection{Treating Social Anxiety Disorder with VR}
 
 \subsubsection{Training Taser with VR (AXON)}
@@ -384,6 +406,87 @@ On commenting that the brakes were "burning", Jeremy Clarkson states that it's "
 \hl{TODO: Write about developing AI which reacts to information which is only gathered the "Real way" through command and control}
 
 \section{Computer Science Approaches to Improving Military Simulation}
+
+\section{Types of Simulation Software}
+
+\subsection{Bespoke vs Off the Shelf}
+
+Two main types of simulation software appear, those which provide almost complete control over your simulated environments but require a lot of work to achieve results and those which provide limited control over your simulated environments, with the benefit of being able to put together scenarios quickly and at scale.
+
+Two examples of these are Unreal Engine and Arma. The latest major releases of each are Unreal Engine 5 and Arma 3 \footnote{A newer release, Arma Reforger is available but does not yet feature easily accessible tools for building your own permanent simulation environments. A user can build an environment using the Game Master feature but it is wiped when the game is closed unless substantial understanding of game engines and/or server management is had by the user.}, respectively.
+
+\subsection{Unreal Engine 5}
+
+Unreal Engine 5 allows the user to generate basically anything they can think of within the realm of a virtual environment. However, the skills and experience necessary to do this often act as a barrier
+
+\subsection{Unreal Engine 5 for Machine Learning Task}
+
+As a student at the University of Essex, I was fortunate to have the opportunity to work as a research assistant, working on a machine learning task for a company called CONFIRM COMPANY NAME. 
+
+The task involved generating synthetic data to bolster existing training data to determine whether the synthetic data could be used to improve the accuracy of the model when applied to real data. 
+
+\subsubsection{Creating the Environment}
+
+For this task, a landscape was created with an ocean placed on top of it. 
+
+The landscape was then set to a specific shape with a heightmap.
+
+Used Lumen lighting to fill the environment with light.
+
+\subsubsection{The Buoys}
+
+Buoy 3D models were imported with their elements being combined to make a static mesh of each buoy.
+
+Textures were applied in the form of materials.
+
+Buoyancy was added to the buoys by simulating pontoons, positioned as to provide realistic floatation.
+
+
+\subsubsection{Taking Pictures}
+
+To generate the images we:
+
+Get the location of the buoy. 
+
+Move the camera to x distance away. 
+
+Roll, pitch and yaw the camera between set parameters. 
+
+Take the picture.
+
+\subsubsection{Bounding Boxes}
+
+Shoot a bunch of "lasers" at the buoy.
+
+Get the ones which are furthest apart, top, right, bottom, left.
+
+Draw a line through each one. 
+
+Run this on each frame to keep the bounding box updated.
+
+\subsubsection{Masks}
+
+Use the layer system. 
+
+\begin{figure}[h]
+  \centering
+  \begin{minipage}[b]{0.9\linewidth}
+    \includegraphics[width=\linewidth]{Images/BP_CM_East_15536.png}
+    \caption{Image of a marker buoy generated with Unreal Engine 5}
+    \label{fig:image2}
+  \end{minipage}
+\end{figure}
+
+\begin{figure}[h]
+  \centering
+  \begin{minipage}[b]{0.9\linewidth}
+    \includegraphics[width=\linewidth]{Images/BP_CM_East_15534.png}
+    \caption{The same image but with a red mask applied using Unreal Engine 5's stencil system}
+    \label{fig:image3}
+  \end{minipage}
+\end{figure}
+
+\subsection{Arma 3}
 
 \subsection{AI Command and Control through Decision Making}
 
@@ -458,6 +561,10 @@ For example, generic bad guy number 1, who cares but talk about the boss fights 
 %https://journals.sagepub.com/doi/10.1177/1750635213494129%
 
 % Talk about Bodycam the game, talk about Unrecord the game %
+
+\subsection{Unfair Training Causing Frustration Instead of Progression}
+
+% Talk about Call to Arms and its units spawning off map %
 
 \subsection{Data Analysis for Performance Review}
 
